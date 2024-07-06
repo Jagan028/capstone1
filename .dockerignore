@@ -1,0 +1,10 @@
+# Ignore Git repository
+.git
+.gitignore
+
+# Ignore dependency directories
+node_modules/
+
+# Ignore local development files
+.vscode/
+.idea/

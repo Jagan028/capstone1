@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Docker-related files
+*.tar
+*.log
+Dockerfile
+docker-compose.yml
+
+# Ignore system files
+.DS_Store
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
